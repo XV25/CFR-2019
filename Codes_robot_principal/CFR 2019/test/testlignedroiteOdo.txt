@@ -1,0 +1,22 @@
+trajectoire selon y, non regulé
+position initiale : 660, 2565,-pi/2
+
+position finale simulé: 
+	x : 585
+	y : 590
+
+position finale réelle:
+	x : 514
+	y : 630
+
+
+distance reelle parcourue : 
+	d : 2009
+
+distance simulé parcourue : 
+	d : 1936
+
+erreur sur x: 49% (sur un déplacement de 10 cm)
+erreur sur y: 2%
+erreur distance : 3.5%
+	
